@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d8d9a8bd.css","mappings":"AAEA,MAGE,aAAwB,CADxB,iBAEF","sources":["index.css"],"sourcesContent":["\n  \n#head\n{\n  text-align:  center;\n  color: rgb(170, 29, 192);\n}"],"names":[],"sourceRoot":""}
